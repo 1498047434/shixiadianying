@@ -1,8 +1,5 @@
 package cn.edkso.sword_finger66.JZ13;
 
-import cn.edkso.sword_finger66.utils.ArrayUtils;
-
-import java.util.ArrayList;
 
 /**
  * 《调整数组顺序，使奇数位于偶数前面》
